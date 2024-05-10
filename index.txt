@@ -4,7 +4,7 @@ Transportio - To every direction
 
 #---------- HEADER ----------#
 
-Transportio
+OTMI LOGGISTICS
 
 aria-label = Clsoe menu
 <ion-icon name="close-outline"></ion-icon>
@@ -18,7 +18,7 @@ Blog
 Contact
 
 Free Call In U.S.A
-1 234 567 8910
+1 3344 233 3631
 
 <ion-icon name="call-outline"></ion-icon>
 
@@ -31,19 +31,17 @@ aria-label = Open menu
 
 To Every Direction
 
-There are many variations of passages of worem Ipsum available, but the majority
-
-View Services
+At OTMI Logistics, we embody professionalism in every aspect of our service. Our commitment to excellence is unparalleled, ensuring a seamless experience for our clients.
 
 
 
 #---------- ABOUT ----------#
 
-Why Choose Us
+Why Choose OTM LOGISTICS
 
-We Are Professional Logistics & cargo Agency
+A Professional Logistics & Cargo Agency
 
-Sed ut perspiciatis unde omnis iste natus error volup tatem accusantium dolorem que laudantium, totam inventore.
+At OTMI Logistics, professionalism is at the core of everything we do. Our unwavering dedication to delivering excellence guarantees a smooth and seamless experience for all our clients.
 
 <ion-icon name="chevron-forward"></ion-icon>
 Go beyond logistics, make the world go round and revolutionize business.
