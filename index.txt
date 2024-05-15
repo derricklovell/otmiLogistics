@@ -1,4 +1,4 @@
-Transportio - To every direction
+OTMI Logistics - To every direction
 
 
 
@@ -14,11 +14,10 @@ Home
 
 About
 Service
-Blog
 Contact
 
 Free Call In U.S.A
-1 3344 233 3631
+1 344 233 3631
 
 <ion-icon name="call-outline"></ion-icon>
 
@@ -37,16 +36,14 @@ At OTMI Logistics, we embody professionalism in every aspect of our service. Our
 
 #---------- ABOUT ----------#
 
-Why Choose OTM LOGISTICS
+WHY CHOOSE OTMI LOGISTICS
 
 A Professional Logistics & Cargo Agency
-
 At OTMI Logistics, professionalism is at the core of everything we do. Our unwavering dedication to delivering excellence guarantees a smooth and seamless experience for all our clients.
 
-<ion-icon name="chevron-forward"></ion-icon>
 Go beyond logistics, make the world go round and revolutionize business.
 
-Logistics through innovation, dedication, and technology. ready, set, done.
+We don't just handle logistics; we propel businesses forward. By combining innovation, dedication, and cutting-edge technology, we redefine the standards of the industry.
 
 We take pride in serving our customers safely. together with passion.
 
@@ -66,7 +63,7 @@ All Services
 
 Trusted For Our Services
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry the standard dummy text ever since the when an printer took.
+Whether you need to ship a single pallet across the state or a truckload across the country.
 
 width = 80
 height = 60
@@ -74,74 +71,47 @@ height = 60
 alt = Truck
 
 01
-Air Freight
+Road Freight
 
-Our aim is to optimize and improve your supply chain so that we can give you the best service.
+Safety is our top priority, and we take pride in serving our customers with utmost care. With a passion for what we do, we ensure every delivery is executed securely and efficiently.
 
-<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
-View Detail
+Contact Us
 
 width = 74
 height = 60
 
-alt = Ship
+alt = Trolley
 02
-Road Freight
+Warehousing
+
+At OTMI Logistics, we believe in the power of imagination. We go beyond conventional methods to explore new possibilities and provide innovative solutions to our clients' needs.
+
+Contact Us
 
 width = 60
 height = 60
 
 alt = Airplane
 03
-Ocean Freight
-
-width = 50
-height = 60
-
-alt = Train
-04
-Rail Freight
-
-width = 63
-height = 60
-
-alt = Trolley
-05
-Warehousing
-
-width = 46
-height = 60
-
-alt = Paper
-06
 Project Cargo
+
+Quality is the cornerstone of our operations. From safety protocols to professionalism, excellence is ingrained in every move we make. Trust OTMI Logistics to deliver where your business thrives.
+
+Contact Us
+
 
 
 
 #---------- FEATURE ----------#
 
-Estimation
+ESTIMATION
 
 Has a wide range of solutions
+At OTMI Logistics, we save each customer by pioneering innovative solutions tailored to their unique needs, revolutionizing the estimation process and delivering unparalleled accuracy. With a wide range of cutting-edge solutions at our disposal, we ensure every client receives personalized, efficient, and cost-effective estimates for their logistics requirements.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry the standard dummy text ever since the when an printer took.
+Comprehensive Freight Certifications
+Offering a wide array of certifications covering various freight types to ensure compliance and quality assurance.
 
-Read More
-
-Solutions and specialized
-
-Our aim is to optimize and improve your supply chain so that we can give you the best service
-
-aria-label = Read more
-<ion-icon name="arrow-forward"></ion-icon>
-
-Multiple warehouses
-
-We provide multiple drop off and pickup locations so you don't have to worry. And you should not face any kind...
-
-Tracking made easy
-
-A tracking number for the entire process. so that you can find the exact position. this process will help you
 
 
 
